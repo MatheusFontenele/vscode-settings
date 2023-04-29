@@ -33,7 +33,7 @@
 	],
 	"editor.parameterHints.enabled": false,
 	"editor.renderLineHighlight": "gutter",
-	"cSpell.language": "en,pt",
+	"cSpell.language": "en",
 	"editor.lineHeight": 26,
 	"material-icon-theme.languages.associations": {
 		"dotenv": "tune"
